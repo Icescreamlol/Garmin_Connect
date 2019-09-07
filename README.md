@@ -1,5 +1,6 @@
 # Garmin_Connect
 Garmin Connect Custom Component for Home Assistant
+
 <img src="https://i.imgur.com/8Jp7hci.jpg" alt="Lovelace" width="300"/>
 
 # Configuration
