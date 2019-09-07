@@ -162,3 +162,5 @@ latestSpo2ReadingTimeGmt
 latestSpo2ReadingTimeLocal
 averageMonitoringEnvironmentAltitude
 ```
+
+Based on the work of Benjamin Blau - https://github.com/benniblau/GarminConnectActivityExport
