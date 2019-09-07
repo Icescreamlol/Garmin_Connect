@@ -16,6 +16,8 @@ sensor:
 This will add a sensor called garmin_steps with additional attributes. The available attributes can be found at the end of the readme.
 To dispay the attributes as a sensor, sensor templates must be made.
 
+Note: The component will get data from garmin every 10 minutes. Starting from 10 minutes after a home assistant reboot.
+
 # Example:
 ```
 sensor: 
