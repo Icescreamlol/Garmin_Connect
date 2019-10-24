@@ -1,6 +1,6 @@
 {
-  "domain": "Garmin_Connect",
-  "name": "Garmin_Connect",
+  "domain": "garmin_connect",
+  "name": "garmin_connect",
   "documentation": "https://github.com/Icescreamlol/Garmin_Connect/",
   "dependencies": [],
   "codeowners": ["@Icescream"],
